@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "WeAct-RP2040-Pico")(type "KiCad")(uri "${KIPRJMOD}/symbols/WeAct-RP2040-Pico.kicad_sym")(options "")(descr ""))
+  (lib (name "rp2040 zero")(type "KiCad")(uri "${KIPRJMOD}/symbols/rp2040-zero (2).kicad_sym")(options "")(descr ""))
+  (lib (name "acheron")(type "KiCad")(uri "${KIPRJMOD}/symbols/acheronSymbols.kicad_sym")(options "")(descr ""))
+)
